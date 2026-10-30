@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ALEF",
+    "name": "ALEF",
+    "kind": "GNSS",
+    "lon": -95.6351,
+    "lat": 29.6918
+  },
+  {
+    "id": "ADKS",
+    "name": "ADKS",
+    "kind": "GNSS",
+    "lon": -95.586395,
+    "lat": 29.791
+  },
+  {
+    "id": "AULT",
+    "name": "AULT",
+    "kind": "GNSS",
+    "lon": -95.74469,
+    "lat": 29.9978
+  },
+  {
+    "id": "CFHS",
+    "name": "CFHS",
+    "kind": "GNSS",
+    "lon": -95.6319,
+    "lat": 29.9192
+  },
+  {
+    "id": "CFJV",
+    "name": "CFJV",
+    "kind": "GNSS",
+    "lon": -95.555786,
+    "lat": 29.8816
+  },
+  {
+    "id": "CMFB",
+    "name": "CMFB",
+    "kind": "GNSS",
+    "lon": -95.72879,
+    "lat": 29.6814
+  },
+  {
+    "id": "CSTE",
+    "name": "CSTE",
+    "kind": "GNSS",
+    "lon": -95.51071,
+    "lat": 29.7956
+  },
+  {
+    "id": "DMFB",
+    "name": "DMFB",
+    "kind": "GNSS",
+    "lon": -95.58371,
+    "lat": 29.6226
+  },
+  {
+    "id": "EIA_3470",
+    "name": "W A Parish",
+    "kind": "power_plant",
+    "lon": -95.6310999999944,
+    "lat": 29.4828000000968,
+    "capacity_mw": 3632,
+    "inventory_period": "202502"
+  },
+  {
+    "id": "EIA_3469",
+    "name": "T H Wharton",
+    "kind": "power_plant",
+    "lon": -95.5306000002165,
+    "lat": 29.9417000002531,
+    "capacity_mw": 1002,
+    "inventory_period": "202502"
+  },
+  {
+    "id": "EIA_55357",
+    "name": "Jack Fusco Energy Center",
+    "kind": "power_plant",
+    "lon": -95.6243999998894,
+    "lat": 29.4731000003847,
+    "capacity_mw": 538,
+    "inventory_period": "202502"
+  },
+  {
+    "id": "EIA_63335",
+    "name": "HO Clarke Generating",
+    "kind": "power_plant",
+    "lon": -95.4516900003827,
+    "lat": 29.6453600003324,
+    "capacity_mw": 356,
+    "inventory_period": "202502"
+  },
+  {
+    "id": "EIA_64383",
+    "name": "Braes Bayou Plant",
+    "kind": "power_plant",
+    "lon": -95.6202770004333,
+    "lat": 29.4802770000285,
+    "capacity_mw": 356,
+    "inventory_period": "202502"
+  },
+  {
+    "id": "EIA_63985",
+    "name": "Fort Bend Solar LLC",
+    "kind": "power_plant",
+    "lon": -95.9803600004035,
+    "lat": 29.5603110003595,
+    "capacity_mw": 240,
+    "inventory_period": "202502"
+  },
+  {
+    "id": "EIA_66338",
+    "name": "Callisto I Energy Center",
+    "kind": "power_plant",
+    "lon": -95.4505389997889,
+    "lat": 29.6468109998142,
+    "capacity_mw": 200,
+    "inventory_period": "202502"
+  },
+  {
+    "id": "EIA_60468",
+    "name": "Friendswood Energy",
+    "kind": "power_plant",
+    "lon": -95.4515160003054,
+    "lat": 29.6472669996567,
+    "capacity_mw": 117,
+    "inventory_period": "202502"
+  }
+]

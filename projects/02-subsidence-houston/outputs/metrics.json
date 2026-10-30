@@ -1,0 +1,170 @@
+{
+  "study": "Western Houston local-deformation screening",
+  "period": [
+    "2019-01-01",
+    "2024-12-31"
+  ],
+  "opera_frame": "08882",
+  "flight_direction": "ASCENDING",
+  "radar_sites": 15,
+  "requested_sites": 16,
+  "excluded_sites": [
+    {
+      "site": "EIA_63985",
+      "reason": "Need >=24 finite observations",
+      "valid_epochs": 15
+    }
+  ],
+  "gnss_stations": 8,
+  "infrastructure_sample": 7,
+  "infrastructure_context_count": 58,
+  "radar_rate_range_mm_yr": [
+    -0.3852034064852056,
+    8.324817629745157
+  ],
+  "conditional_diagnostic_rmse_mm_yr": 4.955243598669135,
+  "conditional_diagnostic_bias_mm_yr": 0.7797384210010073,
+  "conditional_diagnostic_n": 7,
+  "checks": {
+    "input_observations_finite": true,
+    "source_pixel_centers": "within 22 m of queries",
+    "station_coordinate_offsets_m": {
+      "ALEF": 5.804278732183249,
+      "ADKS": 3.7574727883598085,
+      "AULT": 3.921121111577903,
+      "CFHS": 5.033512459891808,
+      "CFJV": 7.51148619828866,
+      "CMFB": 4.102101360863326,
+      "CSTE": 4.967484671411753,
+      "DMFB": 5.9349391628797
+    },
+    "graph_diagnostics": {
+      "ADKS": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 6.995035071835376e-19,
+        "redundant_edges": 0
+      },
+      "ALEF": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 5.2583068075622935e-19,
+        "redundant_edges": 0
+      },
+      "AULT": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 3.6159631800061735e-19,
+        "redundant_edges": 0
+      },
+      "CFHS": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 2.311385814678913e-19,
+        "redundant_edges": 0
+      },
+      "CFJV": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 1.2045806303988625e-18,
+        "redundant_edges": 0
+      },
+      "CMFB": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 7.379417366725083e-18,
+        "redundant_edges": 0
+      },
+      "CSTE": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 6.241184857745522e-19,
+        "redundant_edges": 0
+      },
+      "DMFB": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 1.6645913520856015e-18,
+        "redundant_edges": 0
+      },
+      "EIA_3469": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 1.8712197385909248e-18,
+        "redundant_edges": 0
+      },
+      "EIA_3470": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 1.8303052521744355e-17,
+        "redundant_edges": 0
+      },
+      "EIA_55357": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 1.5553734187257792e-17,
+        "redundant_edges": 0
+      },
+      "EIA_60468": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 1.2507927382234578e-17,
+        "redundant_edges": 0
+      },
+      "EIA_63335": {
+        "components": 1,
+        "retained_dates": 180,
+        "discarded_dates": 0,
+        "edges": 179,
+        "cycle_rmse_m": 1.619444390452335e-18,
+        "redundant_edges": 0
+      },
+      "EIA_64383": {
+        "components": 1,
+        "retained_dates": 210,
+        "discarded_dates": 0,
+        "edges": 209,
+        "cycle_rmse_m": 7.99117810222884e-18,
+        "redundant_edges": 0
+      },
+      "EIA_66338": {
+        "components": 1,
+        "retained_dates": 270,
+        "discarded_dates": 0,
+        "edges": 269,
+        "cycle_rmse_m": 6.7780681917628936e-18,
+        "redundant_edges": 0
+      }
+    },
+    "gnss_month_coverage_min": 0.8611111111111112,
+    "calibration_to_gnss": "none",
+    "independent_accuracy": "NOT ESTABLISHED: spatial filtering and precise look-vector mismatch",
+    "infrastructure_inventory_periods": [
+      "202502"
+    ]
+  }
+}

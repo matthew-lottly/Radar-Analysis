@@ -1,0 +1,361 @@
+[
+  {
+    "file": "ADKS.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/ADKS.tenv3",
+    "request": null,
+    "bytes": 1462680,
+    "sha256": "8dcb78aea4813b8f71a490ad71957438320813cc5302c97ffcf41bbbb42f52ea",
+    "status": 200
+  },
+  {
+    "file": "ADKS_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.586395 29.791)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155143,
+    "sha256": "c8bd237d02c8ef038c1b0d5d8f1e069ce5c239a3289cb6547d7dc4d2649b62df",
+    "status": 200
+  },
+  {
+    "file": "ALEF.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/ALEF.tenv3",
+    "request": null,
+    "bytes": 780708,
+    "sha256": "15d21ab16a53944482e54a1a3baa39e951800842650aad91e6784403adfc338a",
+    "status": 200
+  },
+  {
+    "file": "ALEF_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.6351 29.6918)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155106,
+    "sha256": "5214cb9e3cf4f2286e9bdb43b546d0e87d96ed2472a197b0254ad2d8d41e2c66",
+    "status": 200
+  },
+  {
+    "file": "AULT.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/AULT.tenv3",
+    "request": null,
+    "bytes": 664224,
+    "sha256": "c9e6cb5c574c72bd193ce5abb899bb198146a6270b851f4827e47daf6a756290",
+    "status": 200
+  },
+  {
+    "file": "AULT_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.74469 29.9978)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155107,
+    "sha256": "ba49eb924eda730276a04cbd231ce62568aa3408224c4ce5998cfd49692587c6",
+    "status": 200
+  },
+  {
+    "file": "CFHS.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/CFHS.tenv3",
+    "request": null,
+    "bytes": 670548,
+    "sha256": "150ea6010c49a14ef213ca0e1a880ded2846dba50ff563aa4a463ca703a1b7f8",
+    "status": 200
+  },
+  {
+    "file": "CFHS_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.6319 29.9192)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155199,
+    "sha256": "7edacccab299ba9f6538d81027edc90c8e0c3fe38e4e64645de28f4747b4bc02",
+    "status": 200
+  },
+  {
+    "file": "CFJV.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/CFJV.tenv3",
+    "request": null,
+    "bytes": 666672,
+    "sha256": "5dbc11db6789c81d887e01b42e51ef9f6bb54eb5d76a3b07b4c132c17225a965",
+    "status": 200
+  },
+  {
+    "file": "CFJV_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.555786 29.8816)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155077,
+    "sha256": "0305b72da4863252721b2756ed306814c65d35bcb7864d28c58965b5095fd83e",
+    "status": 200
+  },
+  {
+    "file": "CMFB.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/CMFB.tenv3",
+    "request": null,
+    "bytes": 762960,
+    "sha256": "0ba01d3d7cbf7051f630b8ff2d35c3f6093dd565ab85681568329f0fcb8a2c90",
+    "status": 200
+  },
+  {
+    "file": "CMFB_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.72879 29.6814)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155106,
+    "sha256": "af1590c0a9b00c5e58f1bcc55266128c05814d5e07493693d4cc52e1bc92fcdd",
+    "status": 200
+  },
+  {
+    "file": "CSTE.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/CSTE.tenv3",
+    "request": null,
+    "bytes": 669936,
+    "sha256": "1d20959629ea3579c32a444d0edf4b01461d4ef58fa473e7fa1ae6243abe2c94",
+    "status": 200
+  },
+  {
+    "file": "CSTE_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.51071 29.7956)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155149,
+    "sha256": "afa62ebfa15ee1dfbfdca34efc13de42f1ec2c1b7ff09c5da02d4ac2d040478a",
+    "status": 200
+  },
+  {
+    "file": "DMFB.tenv3",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS-UNR/DMFB.tenv3",
+    "request": null,
+    "bytes": 742968,
+    "sha256": "579d145a6b6b04d8e76a7edf00592af9446faa31a8b40377bf159d9741bc57b5",
+    "status": 200
+  },
+  {
+    "file": "DMFB_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.58371 29.6226)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155187,
+    "sha256": "0b956dc7af5d2ce5f4538100d62a4770ba4daf471da1a99c0e231bf20b63ca71",
+    "status": 200
+  },
+  {
+    "file": "EIA_3469_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.5306000002165 29.9417000002531)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155226,
+    "sha256": "5b8a30fbfc27e26e4be1c44fe78acf74d963fc5faa4fdb86c2cbf142daad5266",
+    "status": 200
+  },
+  {
+    "file": "EIA_3470_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.6310999999944 29.4828000000968)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155063,
+    "sha256": "d2d5e58973a37b62b3f8b7a1cc2444a93acf57edfbecbd653ecaf0e0d9985e5b",
+    "status": 200
+  },
+  {
+    "file": "EIA_55357_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.6243999998894 29.4731000003847)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155065,
+    "sha256": "fd662894dddcd3392de509f8c8f47ba51a5df4c71e1b976311b8942eef4e752d",
+    "status": 200
+  },
+  {
+    "file": "EIA_60468_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.4515160003054 29.6472669996567)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155345,
+    "sha256": "5eb63e00af0af50290c6b4fc4084c54d5ebfb41ed01e9e73712ab82d1b191693",
+    "status": 200
+  },
+  {
+    "file": "EIA_63335_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.4516900003827 29.6453600003324)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155259,
+    "sha256": "9d6c90a6b312bc9ece67bc2cf5af0420e470685c8ac542c6712e9f1faa50b4a4",
+    "status": 200
+  },
+  {
+    "file": "EIA_63985_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.9803600004035 29.5603110003595)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 154815,
+    "sha256": "e46d998967f33372cb7a2c814ae2d442d085f6cc6b65b3a9e4a59cb74af563aa",
+    "status": 200
+  },
+  {
+    "file": "EIA_64383_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.6202770004333 29.4802770000285)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155000,
+    "sha256": "02bc73180518f4e862c0cb601606652cc85ab6356cba6cce450921b5ba95b1e8",
+    "status": 200
+  },
+  {
+    "file": "EIA_66338_opera.json",
+    "url": "https://d2qmcvu7qty7vn.cloudfront.net/timeseries",
+    "request": {
+      "wkt": "POINT (-95.4505389997889 29.6468109998142)",
+      "bucket": "asf-cumulus-prod-opera-products",
+      "polarization": "VV",
+      "flightDirection": "ASCENDING",
+      "frameId": "08882"
+    },
+    "bytes": 155344,
+    "sha256": "f7bd7c08932b0a1d84286a54415a006a7fe4d7ce7d87358d78e9ba926e826aa1",
+    "status": 200
+  },
+  {
+    "file": "counties.geojson",
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query",
+    "request": {
+      "f": "geojson",
+      "where": "STATE='48'",
+      "geometry": "-96,29.45,-95.3,30.15",
+      "geometryType": "esriGeometryEnvelope",
+      "inSR": 4326,
+      "spatialRel": "esriSpatialRelIntersects",
+      "outFields": "*",
+      "outSR": 4326,
+      "maxAllowableOffset": 0.0005
+    },
+    "bytes": 45223,
+    "sha256": "30a528e9d9a452e2722b06e29ca2de10e5dbdc7510692caac465b98417fbeedb",
+    "status": 200,
+    "representation": "normalized JSON snapshot"
+  },
+  {
+    "file": "power_plants.geojson",
+    "url": "https://services2.arcgis.com/FiaPA4ga0iQKduv3/ArcGIS/rest/services/Power_Plants_in_the_US/FeatureServer/0/query",
+    "request": {
+      "where": "1=1",
+      "geometry": "-96,29.45,-95.3,30.15",
+      "geometryType": "esriGeometryEnvelope",
+      "inSR": 4326,
+      "spatialRel": "esriSpatialRelIntersects",
+      "outFields": "*",
+      "outSR": 4326,
+      "f": "geojson"
+    },
+    "bytes": 45333,
+    "sha256": "2053626704f372b74b1c7936c315ee4078230306886db475f572e642d6c912a6",
+    "status": 200
+  },
+  {
+    "file": "primary_roads.geojson",
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Transportation/MapServer/2/query",
+    "request": {
+      "f": "geojson",
+      "where": "1=1",
+      "geometry": "-96,29.45,-95.3,30.15",
+      "geometryType": "esriGeometryEnvelope",
+      "inSR": 4326,
+      "spatialRel": "esriSpatialRelIntersects",
+      "outFields": "*",
+      "outSR": 4326,
+      "maxAllowableOffset": 0.0005
+    },
+    "bytes": 140822,
+    "sha256": "7a3f734c0ba78ddf05aff27f7db87c475edb5360850fd549d996c76a369892a7",
+    "status": 200,
+    "representation": "normalized JSON snapshot"
+  },
+  {
+    "file": "station_catalog.csv",
+    "url": "https://opera-pst-rs-pop1.s3.us-west-2.amazonaws.com/products/DISP_S1/GNSS_Calval_archive/F08882/GNSS_record/F08882.csv",
+    "request": null,
+    "bytes": 1323,
+    "sha256": "0d4c11172938f59a080761793e756b112e1740cb29cb4f95b4e83a36dd5420cb",
+    "status": 200
+  },
+  {
+    "file": "steps.txt",
+    "url": "https://geodesy.unr.edu/NGLStationPages/steps.txt",
+    "request": null,
+    "bytes": 7395420,
+    "sha256": "6c0dca50e31acd2a9dadc86346583bb27cfb1cbc1609b0e448ffd9a8f0785836",
+    "status": 200
+  }
+]
