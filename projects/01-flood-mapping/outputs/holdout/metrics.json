@@ -1,0 +1,177 @@
+{
+  "method": "3x3 median VV AND VH threshold, calibrated on western chips only",
+  "longitude_cutoff": -0.7129030094772523,
+  "gap_degrees": 0.01,
+  "calibration_chips": 17,
+  "test_chips": 8,
+  "buffer_chips": 5,
+  "VV_threshold_db": -15.5,
+  "VH_threshold_db": -22.0,
+  "calibration_sample_F1": 0.6541253071379636,
+  "test_metrics": {
+    "TP": 352691,
+    "FP": 20455,
+    "FN": 23645,
+    "TN": 1564919,
+    "precision": 0.9451823146971963,
+    "recall": 0.9371705072063262,
+    "F1": 0.9411593607318121,
+    "IoU": 0.8888583662431859,
+    "accuracy": 0.9775196129907071,
+    "specificity": 0.9870976816826819,
+    "reference_water_fraction": 0.19184079196211468
+  },
+  "otsu_same_test_domain": {
+    "TP": 337552,
+    "FP": 557206,
+    "FN": 38784,
+    "TN": 1028168,
+    "precision": 0.37725507902695476,
+    "recall": 0.8969431571786913,
+    "F1": 0.5311204364114692,
+    "IoU": 0.36158201773460646,
+    "accuracy": 0.6961885293952725,
+    "specificity": 0.6485334059975754,
+    "reference_water_fraction": 0.19184079196211468
+  },
+  "tile_bootstrap_95_percent": {
+    "precision": [
+      0.683733176109598,
+      0.9764826052187704
+    ],
+    "recall": [
+      0.8091720588255449,
+      0.9743689670952576
+    ],
+    "F1": [
+      0.7515865812405459,
+      0.9726148390048889
+    ],
+    "IoU": [
+      0.6023365746618446,
+      0.9466895922589927
+    ]
+  },
+  "assignments": [
+    {
+      "chip": "Spain_1167260",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_1199913",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_2472849",
+      "split": "buffer_excluded"
+    },
+    {
+      "chip": "Spain_2523247",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_2594119",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_2938657",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_3285448",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_337094",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_4282030",
+      "split": "buffer_excluded"
+    },
+    {
+      "chip": "Spain_4915752",
+      "split": "buffer_excluded"
+    },
+    {
+      "chip": "Spain_5650136",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_5678382",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_5816638",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_5923267",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_6095801",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_6199994",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_6537196",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_6860600",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_716716",
+      "split": "test"
+    },
+    {
+      "chip": "Spain_7370579",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_7387658",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_7558720",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_7604243",
+      "split": "buffer_excluded"
+    },
+    {
+      "chip": "Spain_7786924",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_7856615",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_8104659",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_8154154",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_8199661",
+      "split": "calibration"
+    },
+    {
+      "chip": "Spain_8372658",
+      "split": "buffer_excluded"
+    },
+    {
+      "chip": "Spain_8565131",
+      "split": "calibration"
+    }
+  ]
+}

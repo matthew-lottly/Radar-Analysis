@@ -1,0 +1,632 @@
+[
+  {
+    "file": "Spain_1167260_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_1167260_JRCWaterHand.tif?generation=1601572620450300",
+    "bytes": 835,
+    "md5": "ChmdL8isyC02AHP9n0GWIQ==",
+    "sha256": "3fd790d48398e787134bcdedd04660150183c3566458357b5e765fc655c6ea77"
+  },
+  {
+    "file": "Spain_1167260_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_1167260_LabelHand.tif?generation=1601572623250527",
+    "bytes": 11420,
+    "md5": "G4RRsTDaT4V8HNL9gpSaVA==",
+    "sha256": "7fb2d9b5f65885b57b0f7a2e2ac02e3342ece255d3e2a6f6cb10645937f6f6e3"
+  },
+  {
+    "file": "Spain_1167260_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_1167260_S1Hand.tif?generation=1601573046070740",
+    "bytes": 1498434,
+    "md5": "f9/+IccYP9uGUEsRMUD81Q==",
+    "sha256": "e838194f1f60dca63e111ce7df7f2705a6f76779fe4bc5b6181dc224e80d1f01"
+  },
+  {
+    "file": "Spain_1199913_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_1199913_JRCWaterHand.tif?generation=1601572620470381",
+    "bytes": 1031,
+    "md5": "ZC7yo7TcPZLDWBMxxjsNgw==",
+    "sha256": "2cf1c4c581d1ccb41b039de15b82f994a7ac88d022a407b44204e80e4a493b24"
+  },
+  {
+    "file": "Spain_1199913_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_1199913_LabelHand.tif?generation=1601572623169469",
+    "bytes": 2348,
+    "md5": "dG3ajksYk1RtIjbGnZV5pA==",
+    "sha256": "27fedadf6819805196eb1061a21e11ccb7ba26648a2424917b9de3174d45f2e0"
+  },
+  {
+    "file": "Spain_1199913_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_1199913_S1Hand.tif?generation=1601573053275020",
+    "bytes": 1491993,
+    "md5": "RNuKXuT3XA+AFXv0wL/Hug==",
+    "sha256": "343e99bb775af47d2fb690d04c1c71c56c751f179c13aa56c84992fd4e6b740f"
+  },
+  {
+    "file": "Spain_2472849_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_2472849_JRCWaterHand.tif?generation=1601572620438378",
+    "bytes": 835,
+    "md5": "g+MfpJwUzr86aUfccVjk4w==",
+    "sha256": "0780f3db808de92020ea0603dfabc871c5de11ccbd969a7fbb710ba3ed9c1d79"
+  },
+  {
+    "file": "Spain_2472849_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_2472849_LabelHand.tif?generation=1601572623197530",
+    "bytes": 1331,
+    "md5": "XTO+MDtohzUaPzC+huxEXg==",
+    "sha256": "132c53d39495cd51b37a46c43812bee5a315421a8322633151114d43a42c625a"
+  },
+  {
+    "file": "Spain_2472849_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_2472849_S1Hand.tif?generation=1601573053531975",
+    "bytes": 1501816,
+    "md5": "4CBnzW+8ZryuxdNFaOOYMQ==",
+    "sha256": "438126d5a167f0c51f7667608ffbbfffba55cbb6cea1e94643f4f2529e6d9df2"
+  },
+  {
+    "file": "Spain_2523247_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_2523247_JRCWaterHand.tif?generation=1601572620457940",
+    "bytes": 848,
+    "md5": "xxOurTSgwpoWmXf/FjFskw==",
+    "sha256": "5753d33e043c2506e9f2b1dee9fa75b1ac03d26960264f6d2d590e37f45438c0"
+  },
+  {
+    "file": "Spain_2523247_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_2523247_LabelHand.tif?generation=1601572623232601",
+    "bytes": 2324,
+    "md5": "070BYyolI7YGz4iE+O+2BA==",
+    "sha256": "3300f1d01688ff4ffcf674dd9da763b914f29e75496919addddb2562eb694158"
+  },
+  {
+    "file": "Spain_2523247_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_2523247_S1Hand.tif?generation=1601573060798071",
+    "bytes": 1503039,
+    "md5": "SR856QX7cGsJNpIY5J07fQ==",
+    "sha256": "331953773f3f13aff4098c9a38c64c0f67edca89ec5c04e41d4fa4f53ae1f35b"
+  },
+  {
+    "file": "Spain_2594119_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_2594119_JRCWaterHand.tif?generation=1601572620445967",
+    "bytes": 1050,
+    "md5": "LRuyz5mh0HtZHv97yL0KEQ==",
+    "sha256": "d666ce6c42a9eab29a8be7a1dbcd0a9b2f14012dcb46efee3f73fbe32b58e8e6"
+  },
+  {
+    "file": "Spain_2594119_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_2594119_LabelHand.tif?generation=1601572623215831",
+    "bytes": 2085,
+    "md5": "d0UM6OE/gK5FXz4YsHWGsA==",
+    "sha256": "8acda7a66c4690cd299c23e70ee552bbbb91b6f1619a333d7cd86b3aaa305241"
+  },
+  {
+    "file": "Spain_2594119_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_2594119_S1Hand.tif?generation=1601573060669962",
+    "bytes": 1495812,
+    "md5": "/38Nbpq5z3apHWplfJGckg==",
+    "sha256": "73b5c385f0ee42f28b3670809992ff9dc9735d12abe45120b8fbdc1dbfb9e62a"
+  },
+  {
+    "file": "Spain_2938657_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_2938657_JRCWaterHand.tif?generation=1601572620486088",
+    "bytes": 1102,
+    "md5": "zhyCoDP7iTIQLy2+zC7alw==",
+    "sha256": "8851fde4dd6af363afea8cb40cb2d660a3b28e6182770827499abeb6f3acc93b"
+  },
+  {
+    "file": "Spain_2938657_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_2938657_LabelHand.tif?generation=1601572623213024",
+    "bytes": 1991,
+    "md5": "dKoY3RSBVhLgjEki9YrK+w==",
+    "sha256": "9d9c2a1bdd688d7665388e8404832908a6b906bcc818f40743bb8ca267f7218f"
+  },
+  {
+    "file": "Spain_2938657_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_2938657_S1Hand.tif?generation=1601573036621992",
+    "bytes": 1498547,
+    "md5": "1z6xzjUJqz/6xWv1OtaEyg==",
+    "sha256": "b7569420be95719a7695f826df687d4318427af405f05993178775c68c6619f1"
+  },
+  {
+    "file": "Spain_3285448_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_3285448_JRCWaterHand.tif?generation=1601572620438607",
+    "bytes": 2413,
+    "md5": "Wurhkdxx1oVzUwJaY4fAVQ==",
+    "sha256": "167f14469cb38b442301f02e229b0be093ff312120c8fb34dd2fdb11d441b77a"
+  },
+  {
+    "file": "Spain_3285448_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_3285448_LabelHand.tif?generation=1601572623732027",
+    "bytes": 3467,
+    "md5": "z6GUl6kibuHH88mbisHJZw==",
+    "sha256": "e6051455dfa3725ca63a740c78a29228afe207c5de9c70306b629555fdc4e59e"
+  },
+  {
+    "file": "Spain_3285448_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_3285448_S1Hand.tif?generation=1601573036950251",
+    "bytes": 1506059,
+    "md5": "p5oQlIjCFpYtfYNqW2mtCA==",
+    "sha256": "212cf3b065313dd0c871128aab6715066be7b2b1507c5878800f5aaba61d2238"
+  },
+  {
+    "file": "Spain_337094_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_337094_JRCWaterHand.tif?generation=1601572620472552",
+    "bytes": 916,
+    "md5": "M3H7ZHj3/WznKoChPXD/2Q==",
+    "sha256": "e29310add0cdad2e879ffcfa619fab8eeab7a2b425ec930830c218d3e7b30a72"
+  },
+  {
+    "file": "Spain_337094_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_337094_LabelHand.tif?generation=1601572623827113",
+    "bytes": 8772,
+    "md5": "C0IQvmzMUW4Q7zSmrd0+gw==",
+    "sha256": "b6a3bac5d508b4bab7a4bd1b676d04cc1174f8f6f6e6839c715000aee9bd24b1"
+  },
+  {
+    "file": "Spain_337094_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_337094_S1Hand.tif?generation=1601573056890698",
+    "bytes": 1499154,
+    "md5": "5avl3DE+ItLWW8nv4cpDRw==",
+    "sha256": "5a53d5a51a868733f15fcbda93fa9f1b27d0a4b7d71f8dd6cef972170dd42e47"
+  },
+  {
+    "file": "Spain_4282030_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_4282030_JRCWaterHand.tif?generation=1601572620430406",
+    "bytes": 1699,
+    "md5": "x8XQC8nbWSkycLJJ8wLpkA==",
+    "sha256": "21ed69db1b08f1724fd2c5d0d2cd0e28afa870ea28f8bb6e0900e8fa37f71bd7"
+  },
+  {
+    "file": "Spain_4282030_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_4282030_LabelHand.tif?generation=1601572623831564",
+    "bytes": 14000,
+    "md5": "gq63xmkEwsRS1vWRdepXYQ==",
+    "sha256": "b0a7b46630704964b74436f042d67996c0baaadfc9973ae4721f104d54078696"
+  },
+  {
+    "file": "Spain_4282030_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_4282030_S1Hand.tif?generation=1601573063440578",
+    "bytes": 1498409,
+    "md5": "aA6k08lzk2aCrgY0XwVzQw==",
+    "sha256": "64fb31884403fb861ccbcd231f9cc6fd701b7899ae6c9496b014fc899080cfa5"
+  },
+  {
+    "file": "Spain_4915752_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_4915752_JRCWaterHand.tif?generation=1601572620478713",
+    "bytes": 1177,
+    "md5": "P3zEsvOX0U0VMkSlFfbbVA==",
+    "sha256": "66643f1394c72a1365420c1e25305d7d34432fe2f5e91f9ed2e3a90e3ad3fb5a"
+  },
+  {
+    "file": "Spain_4915752_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_4915752_LabelHand.tif?generation=1601572623750617",
+    "bytes": 2291,
+    "md5": "eQKlsEf4qJyXjAnK1/HetQ==",
+    "sha256": "12af333d480bd7f901ae89af3b70abf4fb572ab90a53f52b931de72cd5f93beb"
+  },
+  {
+    "file": "Spain_4915752_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_4915752_S1Hand.tif?generation=1601573049157444",
+    "bytes": 1488561,
+    "md5": "YdetGxdYcDVy6qjVTyB98w==",
+    "sha256": "cf322631076f9400f23b0559e0eaca362d2d52c6a4e8b7ee0cc3d74fbbba9600"
+  },
+  {
+    "file": "Spain_5650136_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_5650136_JRCWaterHand.tif?generation=1601572620442023",
+    "bytes": 4219,
+    "md5": "1HovmOGoCbFThLsKimFl0g==",
+    "sha256": "d41c131615e8452a365978638aff113e780c45c0d629789636233fe0349959eb"
+  },
+  {
+    "file": "Spain_5650136_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_5650136_LabelHand.tif?generation=1601572623821770",
+    "bytes": 9758,
+    "md5": "UGwY0YM5dUszhUOT4Fkyng==",
+    "sha256": "c0a53cf82bd45a0fb9b7f1c2e9408e9dd817c06a633045fce88b017b7aa990b5"
+  },
+  {
+    "file": "Spain_5650136_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_5650136_S1Hand.tif?generation=1601573057246749",
+    "bytes": 1494815,
+    "md5": "sFPtl840FSiswoFdkgv3Dg==",
+    "sha256": "d751a06ea72de3a2b7b4bd4d79513a0c29c5ff88d09e0ab2b6e79cd7af5cf5e3"
+  },
+  {
+    "file": "Spain_5678382_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_5678382_JRCWaterHand.tif?generation=1601572620417808",
+    "bytes": 835,
+    "md5": "fqz52XIi6r4DMZwIRWkcow==",
+    "sha256": "4ce54a4febdd1b9ad1a6d863b3f661ac5a473a3bcb0ec0800927f67fef38d2ef"
+  },
+  {
+    "file": "Spain_5678382_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_5678382_LabelHand.tif?generation=1601572623768605",
+    "bytes": 3030,
+    "md5": "XBWg/5pybba+qqAOVTJXJw==",
+    "sha256": "6c5ffc5511375306f2ca60a82c4a3ae0f0fea77e9f969e0978f8dad9bff343e9"
+  },
+  {
+    "file": "Spain_5678382_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_5678382_S1Hand.tif?generation=1601573065347750",
+    "bytes": 1509566,
+    "md5": "uflbXiTCfaPiZPmRerk50Q==",
+    "sha256": "e832d73f0b27c498c6d8aa7f9302b4aca44d1321a21127a8683b8f23e3af87b1"
+  },
+  {
+    "file": "Spain_5816638_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_5816638_JRCWaterHand.tif?generation=1601572620434090",
+    "bytes": 835,
+    "md5": "tVI+iSl4nafIGALFTSffSQ==",
+    "sha256": "3cec4a69e9de049aaebdd034b6449f372e04f7a8d46b300ad97878253fa65f8b"
+  },
+  {
+    "file": "Spain_5816638_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_5816638_LabelHand.tif?generation=1601572623682584",
+    "bytes": 1346,
+    "md5": "py3iG4ym4+fkM1oGfiEnaw==",
+    "sha256": "cb103325c9b956f549823a136386dc4b94c0e4bc66e9fcd35eb34b5608639b9a"
+  },
+  {
+    "file": "Spain_5816638_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_5816638_S1Hand.tif?generation=1601573062570558",
+    "bytes": 1496015,
+    "md5": "Og6cMM4gR+7G+stn3C07zg==",
+    "sha256": "a766106b582cb789a6292635b466b7b699e89f67b403f9b941c0c58a7d66bbe4"
+  },
+  {
+    "file": "Spain_5923267_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_5923267_JRCWaterHand.tif?generation=1601572620475157",
+    "bytes": 3628,
+    "md5": "Ed9w03gpbT47W3BBx4EsLA==",
+    "sha256": "4ce1068f47604f9e8c060105f42e146ffe12b8442f61a9667e7bca798957c7a7"
+  },
+  {
+    "file": "Spain_5923267_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_5923267_LabelHand.tif?generation=1601572623228991",
+    "bytes": 5916,
+    "md5": "icGLr47VZhxDF/alyLe3wg==",
+    "sha256": "0aecbc8c0cf4a8172ad090df1ae05c0df428926985afe9cd7764071d9a0273c9"
+  },
+  {
+    "file": "Spain_5923267_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_5923267_S1Hand.tif?generation=1601573064469258",
+    "bytes": 1499785,
+    "md5": "+Yur47tiG/nHVVtMxhApcA==",
+    "sha256": "99c9ebecbff3b3e83f4bf093bbc86b7e5c9a8af3d7309f4710b7c44591306d42"
+  },
+  {
+    "file": "Spain_6095801_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_6095801_JRCWaterHand.tif?generation=1601572620453500",
+    "bytes": 835,
+    "md5": "MBPXA3PKZ+2kQDpuf0MZDQ==",
+    "sha256": "8c07d4c5982f39876ece7b2f0a566cc36e2df61511d4c3e473f47a830de2a09d"
+  },
+  {
+    "file": "Spain_6095801_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_6095801_LabelHand.tif?generation=1601572623257058",
+    "bytes": 7549,
+    "md5": "sw/zklRUDeb6BkRHTqp2+g==",
+    "sha256": "f0c9a7ad9c7049ca43363580eb8c6849812b51bb8095901fcc2796400817f512"
+  },
+  {
+    "file": "Spain_6095801_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_6095801_S1Hand.tif?generation=1601573076816280",
+    "bytes": 1505207,
+    "md5": "wJ0p52XFrNcH/M8PVI+5iA==",
+    "sha256": "c15ceaa0f70d1ea23cc378251244f61307e6857f7503ff9c673db126a82496c9"
+  },
+  {
+    "file": "Spain_6199994_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_6199994_JRCWaterHand.tif?generation=1601572620452149",
+    "bytes": 835,
+    "md5": "49wJv/dqFbvXCJM18mcP2A==",
+    "sha256": "ef71dd879da3bc4bbcf7d421723818379a25d66ad6502cb59a7497981be783a4"
+  },
+  {
+    "file": "Spain_6199994_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_6199994_LabelHand.tif?generation=1601572623249610",
+    "bytes": 1779,
+    "md5": "wDe/ZVXME7P7AHCHbCtTCQ==",
+    "sha256": "7e238d4d47fec3842c1807b4e635fb7f8b41b0baa2109bec13db4f002d8dc07c"
+  },
+  {
+    "file": "Spain_6199994_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_6199994_S1Hand.tif?generation=1601573072287040",
+    "bytes": 1490126,
+    "md5": "dDfDoMv4ZWLjbYd/4ZPRBA==",
+    "sha256": "2cb90afec094f14676543a7b4301c7f2b3810cb29435e80413c7935f4ff0ef75"
+  },
+  {
+    "file": "Spain_6537196_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_6537196_JRCWaterHand.tif?generation=1601572620448779",
+    "bytes": 903,
+    "md5": "WAguq1RmfbxpazQtR1Jozw==",
+    "sha256": "5ac30b349f5fc71c001c05a6fe338750cf5a99ea18d3761e519a06146d252a2a"
+  },
+  {
+    "file": "Spain_6537196_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_6537196_LabelHand.tif?generation=1601572623239881",
+    "bytes": 2441,
+    "md5": "IuOecEEZS8xgtGztjdBLlw==",
+    "sha256": "f33396772875e0a162e4f7000ee640fd622fa7540fd7f0cb96287861a37261b1"
+  },
+  {
+    "file": "Spain_6537196_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_6537196_S1Hand.tif?generation=1601573047623288",
+    "bytes": 1494679,
+    "md5": "vCvXgZ8fiqnFhwX+8kK1UQ==",
+    "sha256": "eed6a008ca7edba317c87b670c0cd4a481ec138560976fb73822a2b3633a3d6d"
+  },
+  {
+    "file": "Spain_6860600_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_6860600_JRCWaterHand.tif?generation=1601572620465076",
+    "bytes": 835,
+    "md5": "iuZZBH2jzOtrN/QeiY6L0Q==",
+    "sha256": "65bff536241aea44a0beff71702adb1e3247ff477763250bf4481b16ffa488a7"
+  },
+  {
+    "file": "Spain_6860600_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_6860600_LabelHand.tif?generation=1601572623236908",
+    "bytes": 1374,
+    "md5": "D+nmwjMmcLRVUd5koH3+qA==",
+    "sha256": "ebf990071fcaa4f20a86d141b4cb25df0ce9a310178740b697dde22b4af4ea7b"
+  },
+  {
+    "file": "Spain_6860600_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_6860600_S1Hand.tif?generation=1601573071830126",
+    "bytes": 1490744,
+    "md5": "f5SR5MFf6s+7/YgjT+fuKg==",
+    "sha256": "5ffd422a0375aa9113e078d7481643355aa9109dbaa459e03b659c0bde503787"
+  },
+  {
+    "file": "Spain_716716_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_716716_JRCWaterHand.tif?generation=1601572620451664",
+    "bytes": 913,
+    "md5": "Zlzu4FMQU8B9XZ/q2mIxIQ==",
+    "sha256": "0765bc4784d4444089dee24c25e168d1d567d7519ab25337bbd6d848d9c12a14"
+  },
+  {
+    "file": "Spain_716716_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_716716_LabelHand.tif?generation=1601572623264017",
+    "bytes": 2441,
+    "md5": "QHVfhnnvuABt6nD08rdXog==",
+    "sha256": "f9d7e45ad83adf69264ab36568a094408869f32b928afb0bfc4f51c5baa0e576"
+  },
+  {
+    "file": "Spain_716716_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_716716_S1Hand.tif?generation=1601573056321800",
+    "bytes": 1485685,
+    "md5": "Ae+mAXPFYFKKPkCp1inTzA==",
+    "sha256": "312e11c8ffb3427e30e91190987f7c4cef32707bda241ae409134e8b5b9c2fc7"
+  },
+  {
+    "file": "Spain_7370579_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_7370579_JRCWaterHand.tif?generation=1601572620467462",
+    "bytes": 835,
+    "md5": "AdItHZLoQ6OlDKXctN71Tg==",
+    "sha256": "53cfd4eb3b67b555cd0c54f69de6d7364eeb3c39565b83aa6d1d3db7853d44a6"
+  },
+  {
+    "file": "Spain_7370579_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_7370579_LabelHand.tif?generation=1601572623320008",
+    "bytes": 14901,
+    "md5": "Hgfm8y7xh3/+LGyeUUX/EA==",
+    "sha256": "b81224e01540b262faffd82cb42762c3c77df2ba084a5fb82d49bae421dd12d4"
+  },
+  {
+    "file": "Spain_7370579_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_7370579_S1Hand.tif?generation=1601573052062066",
+    "bytes": 1507705,
+    "md5": "WY9XdLGhkpx6BcfVFcbsMQ==",
+    "sha256": "6c24bf791372da5e93450195eac8d676a7ef917884dfb479dafe4a565543b19a"
+  },
+  {
+    "file": "Spain_7387658_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_7387658_JRCWaterHand.tif?generation=1601572620488642",
+    "bytes": 1909,
+    "md5": "+e0E8S/46rVrMyFBYYejJg==",
+    "sha256": "0c9da27d202226a27bc24d9e0dfae0f7c9b0108f91a4d56f28d60006d748153e"
+  },
+  {
+    "file": "Spain_7387658_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_7387658_LabelHand.tif?generation=1601572623312222",
+    "bytes": 19124,
+    "md5": "w8YtcRQSLEFtJ8tALKGeqQ==",
+    "sha256": "d7f6c03457e5191733d46f9d52f8342af1d73cfbeafeeba100794443b01f79fd"
+  },
+  {
+    "file": "Spain_7387658_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_7387658_S1Hand.tif?generation=1601573071280175",
+    "bytes": 1509867,
+    "md5": "nldkifSMID2y711VMEmYbw==",
+    "sha256": "2a69a686bdb5aa7ed0736d8a428a18fdf819f2b2862db75ff3e5f7b902b25207"
+  },
+  {
+    "file": "Spain_7558720_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_7558720_JRCWaterHand.tif?generation=1601572620461332",
+    "bytes": 835,
+    "md5": "mYuViKiApaB4gKyvDL3t5A==",
+    "sha256": "397b9e2006efcec3573b339f9c989fc1e36fd15daa235c7c16e0422c18367a02"
+  },
+  {
+    "file": "Spain_7558720_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_7558720_LabelHand.tif?generation=1601572623280007",
+    "bytes": 2528,
+    "md5": "9OAOuqfNeUFvJv0TOy8b9A==",
+    "sha256": "718ea7b5fec00b009700659fd06fb6c2d49caafbcea7c2aee01c7c16cc518fc9"
+  },
+  {
+    "file": "Spain_7558720_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_7558720_S1Hand.tif?generation=1601573070100487",
+    "bytes": 1500337,
+    "md5": "8IGlrXrMXMzSTU/3j/mLcg==",
+    "sha256": "1a1d590745a4337683534636f85d005400d9b81dd21d1c8cc768e663dce5ec91"
+  },
+  {
+    "file": "Spain_7604243_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_7604243_JRCWaterHand.tif?generation=1601572620494608",
+    "bytes": 1401,
+    "md5": "pX+GJhFgWcviYkqQcJ1CDg==",
+    "sha256": "fb253afb1d71746f25805a645232b1b995610824fe99e5019f5aba75d82ea708"
+  },
+  {
+    "file": "Spain_7604243_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_7604243_LabelHand.tif?generation=1601572623274448",
+    "bytes": 2171,
+    "md5": "88RY3TksVYtC6uAkU/L5XA==",
+    "sha256": "709272968fee9480d15b645683817fe91307f96ec489e4f27c9f4af2993c85f5"
+  },
+  {
+    "file": "Spain_7604243_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_7604243_S1Hand.tif?generation=1601573069775110",
+    "bytes": 1506326,
+    "md5": "+yHQAMUgi4UiP/cmKwJe1w==",
+    "sha256": "af77bed29b4085b1b43f9a3cc874959e8e75822c415e6fb1e389e042b80c4106"
+  },
+  {
+    "file": "Spain_7786924_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_7786924_JRCWaterHand.tif?generation=1601572620482211",
+    "bytes": 922,
+    "md5": "DAZKb9h3sRy+DmZ/KJj1vQ==",
+    "sha256": "ce538695bfc761c03af35e6ed25375137c3df91749b6a8416828e8c5af5a55ef"
+  },
+  {
+    "file": "Spain_7786924_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_7786924_LabelHand.tif?generation=1601572623273429",
+    "bytes": 2878,
+    "md5": "OTAaATgLJ/q0vRMJC4/EHA==",
+    "sha256": "c18b9bb4fe2d5f254b3365599545fe5bfb820046ca0d8e64853db0aa17135db2"
+  },
+  {
+    "file": "Spain_7786924_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_7786924_S1Hand.tif?generation=1601573060390869",
+    "bytes": 1497343,
+    "md5": "QHf5VspE2JlSceLEMKF3jQ==",
+    "sha256": "b6a54849be1706c18947d232dff82dca0c62b0c42e78fa7630576c7c19a26cc1"
+  },
+  {
+    "file": "Spain_7856615_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_7856615_JRCWaterHand.tif?generation=1601572620512732",
+    "bytes": 835,
+    "md5": "NqnSxOFbO9+Eq9CzNrFqsw==",
+    "sha256": "57f0d22ceceb673d23b286a9c9d901c2d659e91525f624e6509d954920510332"
+  },
+  {
+    "file": "Spain_7856615_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_7856615_LabelHand.tif?generation=1601572623308405",
+    "bytes": 4980,
+    "md5": "Y5XqQ59JgEbgGJW/74p+lA==",
+    "sha256": "83ad1cbe61fe63cc94e59b86e74c2f48fb92ce1f404572952efd2163f960ddb4"
+  },
+  {
+    "file": "Spain_7856615_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_7856615_S1Hand.tif?generation=1601573079718059",
+    "bytes": 1497262,
+    "md5": "RRs3nbI2YxtmCo7jUdPwww==",
+    "sha256": "5c1315b5e96224e74c32f8a6301ee4ad634bdd854dcf50241a2888ac8a88f71c"
+  },
+  {
+    "file": "Spain_8104659_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_8104659_JRCWaterHand.tif?generation=1601572620499297",
+    "bytes": 835,
+    "md5": "qGfoL2YlPkS64YKmDQeW6A==",
+    "sha256": "43b49d0eaaa2d7873d2547969c9107f17245a3335d76b3e21ee49ca437d03277"
+  },
+  {
+    "file": "Spain_8104659_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_8104659_LabelHand.tif?generation=1601572623293347",
+    "bytes": 2256,
+    "md5": "wHYQwmcG5ADU5fUFtDQG5Q==",
+    "sha256": "a0ded85574230815d3cea3f0dcd6a568de4f3d7747bc990e636694861856324c"
+  },
+  {
+    "file": "Spain_8104659_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_8104659_S1Hand.tif?generation=1601573080441789",
+    "bytes": 1508366,
+    "md5": "GUDFfElle1lvjNcFCrYA+w==",
+    "sha256": "684478fd76187222acef33e6f2da0912123065a44c283a6a6af7c97e52c88e6f"
+  },
+  {
+    "file": "Spain_8154154_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_8154154_JRCWaterHand.tif?generation=1601572620515314",
+    "bytes": 874,
+    "md5": "iF5FD3i6BeAOQIfzt05Flw==",
+    "sha256": "c274382abb010169b09492d8d79c4b377bafcd2cfeb2a261704d27f76dce583a"
+  },
+  {
+    "file": "Spain_8154154_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_8154154_LabelHand.tif?generation=1601572623273842",
+    "bytes": 3078,
+    "md5": "U8xeNgCIFRZXpKdR5pYzfQ==",
+    "sha256": "73a0e998a7eb26909d693bbee697fb15566ebd0163cd5e7a7c172869aa1fd1e7"
+  },
+  {
+    "file": "Spain_8154154_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_8154154_S1Hand.tif?generation=1601573070396640",
+    "bytes": 1500019,
+    "md5": "w7dHzYvtdLmf0O2yPYn+Ww==",
+    "sha256": "0037b1d8be4d5e6c6f24174f15e550f959ac32dab03820b4595a964e57ff0e7b"
+  },
+  {
+    "file": "Spain_8199661_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_8199661_JRCWaterHand.tif?generation=1601572620530374",
+    "bytes": 905,
+    "md5": "TQpjoHoRQ+tRdA0T6ZApsw==",
+    "sha256": "6994980beccb70d92afd81cb8262b12a5702f68bfb70761a634e03534411a867"
+  },
+  {
+    "file": "Spain_8199661_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_8199661_LabelHand.tif?generation=1601572623278504",
+    "bytes": 3618,
+    "md5": "fr+pUCfSJrtvk+XOsXycxg==",
+    "sha256": "73b55033d476fbe4744a1589e1cbb71632eef478732eb0819a1b0d8b09e2547b"
+  },
+  {
+    "file": "Spain_8199661_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_8199661_S1Hand.tif?generation=1601573078515654",
+    "bytes": 1490846,
+    "md5": "lPDWVSG7Rb2TDsN5LPmw3A==",
+    "sha256": "e338c0462755272e8eb5b172c435f903bf0772e20de7a48cd78e13ea3a8d1b6d"
+  },
+  {
+    "file": "Spain_8372658_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_8372658_JRCWaterHand.tif?generation=1601572620556353",
+    "bytes": 835,
+    "md5": "jwmuyA4OB5Ad00F2wu8ocQ==",
+    "sha256": "51d48bceb5b7eaf15e5c50d514b488e247bcc4cba356f9b3859a3717e7b4b00d"
+  },
+  {
+    "file": "Spain_8372658_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_8372658_LabelHand.tif?generation=1601572623331662",
+    "bytes": 10893,
+    "md5": "mQ841yH6kstBY/MndjEr8g==",
+    "sha256": "bc4b42832688fb9f0e82554ce05bb13b4d92e8ec638bc416dba62ae4ec0fe093"
+  },
+  {
+    "file": "Spain_8372658_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_8372658_S1Hand.tif?generation=1601573086393703",
+    "bytes": 1505931,
+    "md5": "FyKDZIzEO0DuDotvSXMY9w==",
+    "sha256": "e19f8210a9a2d5abd1d831f86ed20dfc397b137fc2d3caf6977d33b11b343abd"
+  },
+  {
+    "file": "Spain_8565131_JRCWaterHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/JRCWaterHand/Spain_8565131_JRCWaterHand.tif?generation=1601572620559666",
+    "bytes": 971,
+    "md5": "x/UvS9lf2h8SovJQ0afVSg==",
+    "sha256": "1c81fc1fe1190097c7422c7dda397257763d46abbd4dc2e6cf6a98b6ee2083cd"
+  },
+  {
+    "file": "Spain_8565131_LabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/LabelHand/Spain_8565131_LabelHand.tif?generation=1601572623341723",
+    "bytes": 9456,
+    "md5": "Vmuer4dnA+aIfdxjIrJB4w==",
+    "sha256": "68ac02b253ba9689c6688a9ddb3ed983637e0dee7878edfedb9f7fce2a84ac6a"
+  },
+  {
+    "file": "Spain_8565131_S1Hand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1Hand/Spain_8565131_S1Hand.tif?generation=1601573080108984",
+    "bytes": 1490544,
+    "md5": "2j8DQrzMkcJ3Yf0pSdLWGQ==",
+    "sha256": "d7709688078f20930190ec67dc79c071a8f7cd31d722e3cda5ff90be75b5322c"
+  }
+]
