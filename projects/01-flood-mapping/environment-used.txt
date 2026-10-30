@@ -1,0 +1,5 @@
+numpy==2.3.5
+rasterio==1.5.2
+matplotlib==3.10.8
+pyproj==3.8.0
+scipy==1.17.0
