@@ -1,0 +1,7 @@
+[
+  {
+    "site": "EIA_63985",
+    "reason": "Need >=24 finite observations",
+    "valid_epochs": 15
+  }
+]

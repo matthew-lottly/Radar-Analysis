@@ -1,0 +1,82 @@
+[
+  {
+    "site": "ALEF",
+    "accepted_days": 2094,
+    "rejected_days": 0,
+    "first": "2019-01-01",
+    "last": "2024-09-28",
+    "gnss_lat": 29.6918328403,
+    "gnss_lon": -95.63505328869999,
+    "reference_longitudes": 1
+  },
+  {
+    "site": "ADKS",
+    "accepted_days": 1890,
+    "rejected_days": 0,
+    "first": "2019-01-13",
+    "last": "2024-09-28",
+    "gnss_lat": 29.79096917455,
+    "gnss_lon": -95.5864111653,
+    "reference_longitudes": 1
+  },
+  {
+    "site": "AULT",
+    "accepted_days": 2063,
+    "rejected_days": 0,
+    "first": "2019-01-01",
+    "last": "2024-09-28",
+    "gnss_lat": 29.997771429,
+    "gnss_lon": -95.744666041,
+    "reference_longitudes": 1
+  },
+  {
+    "site": "CFHS",
+    "accepted_days": 2096,
+    "rejected_days": 0,
+    "first": "2019-01-01",
+    "last": "2024-09-28",
+    "gnss_lat": 29.91923418115,
+    "gnss_lon": -95.6319343144,
+    "reference_longitudes": 1
+  },
+  {
+    "site": "CFJV",
+    "accepted_days": 2088,
+    "rejected_days": 0,
+    "first": "2019-01-01",
+    "last": "2024-09-28",
+    "gnss_lat": 29.881648143950002,
+    "gnss_lon": -95.5558407196,
+    "reference_longitudes": 1
+  },
+  {
+    "site": "CMFB",
+    "accepted_days": 2093,
+    "rejected_days": 0,
+    "first": "2019-01-01",
+    "last": "2024-09-28",
+    "gnss_lat": 29.6813631902,
+    "gnss_lon": -95.7287943676,
+    "reference_longitudes": 1
+  },
+  {
+    "site": "CSTE",
+    "accepted_days": 1962,
+    "rejected_days": 0,
+    "first": "2019-01-01",
+    "last": "2024-09-28",
+    "gnss_lat": 29.79563705775,
+    "gnss_lon": -95.5107388898,
+    "reference_longitudes": 1
+  },
+  {
+    "site": "DMFB",
+    "accepted_days": 2096,
+    "rejected_days": 0,
+    "first": "2019-01-01",
+    "last": "2024-09-28",
+    "gnss_lat": 29.6226467429,
+    "gnss_lon": -95.58373988635,
+    "reference_longitudes": 1
+  }
+]

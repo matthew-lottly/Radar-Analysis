@@ -1,0 +1,470 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.586395,
+          29.791
+        ]
+      },
+      "properties": {
+        "site": "ADKS",
+        "name": "ADKS",
+        "kind": "GNSS",
+        "lon": -95.586395,
+        "lat": 29.791,
+        "los_rate_mm_yr": 0.3567623141556215,
+        "los_rate_se_hac_mm_yr": 0.3098586990327969,
+        "los_residual_rmse_mm": 4.997987921086797,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 11.082718508883133,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.3087189333299579,
+        "se_lag12": 0.3294366664515343,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6351,
+          29.6918
+        ]
+      },
+      "properties": {
+        "site": "ALEF",
+        "name": "ALEF",
+        "kind": "GNSS",
+        "lon": -95.6351,
+        "lat": 29.6918,
+        "los_rate_mm_yr": 0.8921622151295324,
+        "los_rate_se_hac_mm_yr": 0.28494476487354115,
+        "los_residual_rmse_mm": 4.248595866495382,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 6.06725952611425,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.25088920853031094,
+        "se_lag12": 0.3058770156255201,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.74469,
+          29.9978
+        ]
+      },
+      "properties": {
+        "site": "AULT",
+        "name": "AULT",
+        "kind": "GNSS",
+        "lon": -95.74469,
+        "lat": 29.9978,
+        "los_rate_mm_yr": 2.888843541195278,
+        "los_rate_se_hac_mm_yr": 0.1904034357728776,
+        "los_residual_rmse_mm": 4.398998106945455,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 12.728772706685593,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.18958285165849426,
+        "se_lag12": 0.21296079533427653,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6319,
+          29.9192
+        ]
+      },
+      "properties": {
+        "site": "CFHS",
+        "name": "CFHS",
+        "kind": "GNSS",
+        "lon": -95.6319,
+        "lat": 29.9192,
+        "los_rate_mm_yr": 1.3798513376535302,
+        "los_rate_se_hac_mm_yr": 0.23072788992260057,
+        "los_residual_rmse_mm": 4.134692778022077,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 16.536291041058067,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.2317093818960761,
+        "se_lag12": 0.21723106137296488,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.555786,
+          29.8816
+        ]
+      },
+      "properties": {
+        "site": "CFJV",
+        "name": "CFJV",
+        "kind": "GNSS",
+        "lon": -95.555786,
+        "lat": 29.8816,
+        "los_rate_mm_yr": 0.14713762581647027,
+        "los_rate_se_hac_mm_yr": 0.27411858259653005,
+        "los_residual_rmse_mm": 5.059125304113867,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 12.885996936578922,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.2489874386578912,
+        "se_lag12": 0.31570809896192015,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.72879,
+          29.6814
+        ]
+      },
+      "properties": {
+        "site": "CMFB",
+        "name": "CMFB",
+        "kind": "GNSS",
+        "lon": -95.72879,
+        "lat": 29.6814,
+        "los_rate_mm_yr": 3.085807053735517,
+        "los_rate_se_hac_mm_yr": 0.19497462057429388,
+        "los_residual_rmse_mm": 4.1079591354710425,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 10.809412971215313,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.21423602193418909,
+        "se_lag12": 0.1646202942417958,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.51071,
+          29.7956
+        ]
+      },
+      "properties": {
+        "site": "CSTE",
+        "name": "CSTE",
+        "kind": "GNSS",
+        "lon": -95.51071,
+        "lat": 29.7956,
+        "los_rate_mm_yr": 1.4459248038508685,
+        "los_rate_se_hac_mm_yr": 0.20654138610096387,
+        "los_residual_rmse_mm": 4.72851875927508,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 12.597939707148184,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.21191936019142074,
+        "se_lag12": 0.18827705631572944,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.58371,
+          29.6226
+        ]
+      },
+      "properties": {
+        "site": "DMFB",
+        "name": "DMFB",
+        "kind": "GNSS",
+        "lon": -95.58371,
+        "lat": 29.6226,
+        "los_rate_mm_yr": -0.3852034064852056,
+        "los_rate_se_hac_mm_yr": 0.1656506517576036,
+        "los_residual_rmse_mm": 4.175148133642115,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 8.174470722745154,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.16168572352332317,
+        "se_lag12": 0.1711353882048666,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5306000002165,
+          29.9417000002531
+        ]
+      },
+      "properties": {
+        "site": "EIA_3469",
+        "name": "T H Wharton",
+        "kind": "power_plant",
+        "lon": -95.5306000002165,
+        "lat": 29.9417000002531,
+        "los_rate_mm_yr": 0.5672292549870965,
+        "los_rate_se_hac_mm_yr": 0.22795902314630076,
+        "los_residual_rmse_mm": 4.845396041130158,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 12.355368443795035,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.2317268706185452,
+        "se_lag12": 0.2144282211177775,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6310999999944,
+          29.4828000000968
+        ]
+      },
+      "properties": {
+        "site": "EIA_3470",
+        "name": "W A Parish",
+        "kind": "power_plant",
+        "lon": -95.6310999999944,
+        "lat": 29.4828000000968,
+        "los_rate_mm_yr": 6.268400787436292,
+        "los_rate_se_hac_mm_yr": 0.3415750530560669,
+        "los_residual_rmse_mm": 5.069322600383728,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 16.180484502708538,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.2915462157955758,
+        "se_lag12": 0.408242796414525,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6243999998894,
+          29.4731000003847
+        ]
+      },
+      "properties": {
+        "site": "EIA_55357",
+        "name": "Jack Fusco Energy Center",
+        "kind": "power_plant",
+        "lon": -95.6243999998894,
+        "lat": 29.4731000003847,
+        "los_rate_mm_yr": 8.324817629745157,
+        "los_rate_se_hac_mm_yr": 0.29391247934306297,
+        "los_residual_rmse_mm": 4.800640962455773,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 8.478911891719894,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.25377602358190693,
+        "se_lag12": 0.33973048391322874,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4515160003054,
+          29.6472669996567
+        ]
+      },
+      "properties": {
+        "site": "EIA_60468",
+        "name": "Friendswood Energy",
+        "kind": "power_plant",
+        "lon": -95.4515160003054,
+        "lat": 29.6472669996567,
+        "los_rate_mm_yr": 0.0017449432865270596,
+        "los_rate_se_hac_mm_yr": 0.12374152199963626,
+        "los_residual_rmse_mm": 3.457983652765367,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 13.841148375130182,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.14537121217015248,
+        "se_lag12": 0.11981286690807291,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4516900003827,
+          29.6453600003324
+        ]
+      },
+      "properties": {
+        "site": "EIA_63335",
+        "name": "HO Clarke Generating",
+        "kind": "power_plant",
+        "lon": -95.4516900003827,
+        "lat": 29.6453600003324,
+        "los_rate_mm_yr": 0.08367081063365675,
+        "los_rate_se_hac_mm_yr": 0.1975074822231758,
+        "los_residual_rmse_mm": 3.5029666338298244,
+        "epochs": 132,
+        "start": "2020-07-20",
+        "end": "2024-12-26",
+        "masked_or_missing": 90,
+        "pixel_offset_m": 13.102711053188886,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.22457889534158976,
+        "se_lag12": 0.20377096628047497,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6202770004333,
+          29.4802770000285
+        ]
+      },
+      "properties": {
+        "site": "EIA_64383",
+        "name": "Braes Bayou Plant",
+        "kind": "power_plant",
+        "lon": -95.6202770004333,
+        "lat": 29.4802770000285,
+        "los_rate_mm_yr": 2.2882360211336685,
+        "los_rate_se_hac_mm_yr": 0.8980231160521686,
+        "los_residual_rmse_mm": 7.1845621899010785,
+        "epochs": 145,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 60,
+        "pixel_offset_m": 13.75776213510831,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.7236481205642394,
+        "se_lag12": 1.0870977796627013,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4505389997889,
+          29.6468109998142
+        ]
+      },
+      "properties": {
+        "site": "EIA_66338",
+        "name": "Callisto I Energy Center",
+        "kind": "power_plant",
+        "lon": -95.4505389997889,
+        "lat": 29.6468109998142,
+        "los_rate_mm_yr": 0.9889401049722198,
+        "los_rate_se_hac_mm_yr": 0.12567415472939572,
+        "los_residual_rmse_mm": 3.3229272515443493,
+        "epochs": 175,
+        "start": "2019-01-03",
+        "end": "2024-12-26",
+        "masked_or_missing": 0,
+        "pixel_offset_m": 5.671431032985247,
+        "three_year_early_mm_yr": null,
+        "three_year_late_mm_yr": null,
+        "se_lag3": 0.1394328765070612,
+        "se_lag12": 0.13502366899594243,
+        "observable": "short-wavelength LOS; positive toward satellite",
+        "accuracy_status": "exploratory, not independent full-band validation"
+      }
+    }
+  ]
+}
